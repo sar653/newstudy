@@ -6,4 +6,13 @@ const one = () => {
   )
 }
 
+import React from 'react'
+
+const on = () => {
+  return (
+    <div>one</div>
+  )
+}
+
+export { on}
 export default one
