@@ -1,2 +1,3 @@
 one.txt
 one
+one.js
